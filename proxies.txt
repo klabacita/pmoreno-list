@@ -33,3 +33,11 @@
 127.0.0.1 proxymesh.com
 127.0.0.1 premproxy.com
 127.0.0.1 smartproxy.com
+127.0.0.1 www.ultraproxies.com.infotech.bc.ca
+127.0.0.1 ultraproxies.com.infotech.bc.ca
+127.0.0.1 freeproxydownloadlist.com
+127.0.0.1 proxydb.net
+127.0.0.1 www.squidproxies.com
+127.0.0.1 squidproxies.com
+127.0.0.1 www.torproject.org
+127.0.0.1 torproject.org
