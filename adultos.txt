@@ -52,3 +52,6 @@
 0.0.0.0 porndig.com
 0.0.0.0 www.pornjam.com
 0.0.0.0 pornjam.com
+0.0.0.0 pornheed.com
+0.0.0.0 www.pornheed.com
+
