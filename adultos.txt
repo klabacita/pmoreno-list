@@ -36,3 +36,5 @@
 0.0.0.0 4tube.com
 0.0.0.0 www.tiava.com
 0.0.0.0 tiava.com
+0.0.0.0 www.shameless.com
+0.0.0.0 shameless.com
