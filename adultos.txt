@@ -78,3 +78,10 @@
 0.0.0.0 www.nuvid.com
 0.0.0.0 www.sunporno.com
 0.0.0.0 sunporno.com
+0.0.0.0 maturetube.com
+0.0.0.0 www.maturetube.com
+0.0.0.0 pornsite.pro
+0.0.0.0 www.pornsite.pro
+0.0.0.0 pornmate.com
+0.0.0.0 www.pornmate.com
+
