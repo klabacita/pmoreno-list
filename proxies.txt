@@ -1,4 +1,3 @@
-#Aqui va mi lista
 127.0.0.1 proxynova.com
 127.0.0.1 www.proxynova.com
 127.0.0.1 cdn.proxynova.com
