@@ -82,3 +82,11 @@
 0.0.0.0 100proxies.com
 0.0.0.0 www.100proxies.com
 0.0.0.0 public-proxies.sharewarecentral.com
+0.0.0.0 freepublicproxy.org
+0.0.0.0 www.freepublicproxy
+0.0.0.0 proxyelite.info
+0.0.0.0 www.proxyelite.info
+0.0.0.0 mountproxies.com
+0.0.0.0 www.mountproxies.com
+0.0.0.0 proxy-store.com
+0.0.0.0 www.proxy-store.com
