@@ -1,4 +1,4 @@
-0.0.0.0 www.naked.com
+127.0.0.1 www.naked.com
 0.0.0.0 bestpornsites.org
 0.0.0.0 www.xvideos.com
 0.0.0.0 xvideos.com
@@ -221,3 +221,17 @@
 0.0.0.0 www.free-xxx.net
 0.0.0.0 ztube.org
 0.0.0.0 www.ztube.org
+0.0.0.0 teensyoung.com
+0.0.0.0 www.teensyoung.com
+0.0.0.0 porn-xnxx.com
+0.0.0.0 www.porn-xnxx.com
+0.0.0.0 pornteengay.com
+0.0.0.0 www.pornteengay.com
+0.0.0.0 www.dieoff.org
+0.0.0.0 dieoff.org
+0.0.0.0 sexsites.co
+0.0.0.0 www.sexsites.co
+0.0.0.0 sexlistclub.com
+0.0.0.0 www.sexlistclub.com
+0.0.0.0 ultragranny.com
+0.0.0.0 www.ultragranny.com
