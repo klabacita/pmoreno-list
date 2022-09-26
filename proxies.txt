@@ -168,7 +168,7 @@
 0.0.0.0 www.croxyproxy.net
 0.0.0.0 croxyproxy.net
 0.0.0.0 unblockmyweb.com
-0.0.0.0 www.unblockmyweb.com
+0.0.0.0 www.unblockmyweb.com 
 0.0.0.0 www.sslunblocker.com
 0.0.0.0 sslunblocker.com
 0.0.0.0 stormproxies.com
@@ -187,3 +187,18 @@
 0.0.0.0 www.lucproxy.com
 0.0.0.0 www.upguard.com
 0.0.0.0 freevpnplanet.com
+0.0.0.0 soax.com
+0.0.0.0 publicproxyserver.net
+0.0.0.0 www.anonymous-proxies.org
+0.0.0.0 www.experte.com
+0.0.0.0 freeproxyupdate.com
+0.0.0.0 advanced.name
+0.0.0.0 proxy-checker.net
+0.0.0.0 publicproxyserver.net
+0.0.0.0 proxy-list.org
+0.0.0.0 scrapingpass.com
+0.0.0.0 www.proxyfish.com
+0.0.0.0 openproxylist.com
+0.0.0.0 www.coderduck.com
+0.0.0.0 www.my-proxy.com
+0.0.0.0 proxy-bay.page
