@@ -221,3 +221,7 @@
 0.0.0.0 proxy6.net
 0.0.0.0 proxys.io
 0.0.0.0 stupidproxy.com
+0.0.0.0 proxyscan.io
+0.0.0.0 fastusaproxy.com
+0.0.0.0 youtubefreeproxy.net
+0.0.0.0 proxydocker.com
