@@ -225,3 +225,7 @@
 0.0.0.0 fastusaproxy.com
 0.0.0.0 youtubefreeproxy.net
 0.0.0.0 proxydocker.com
+0.0.0.0 proxyium.com
+0.0.0.0 steganos.com
+0.0.0.0 infatica.io
+0.0.0.0 startpage.com
