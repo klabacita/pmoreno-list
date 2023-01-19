@@ -229,3 +229,6 @@
 0.0.0.0 steganos.com
 0.0.0.0 infatica.io
 0.0.0.0 startpage.com
+0.0.0.0 steganos.com
+0.0.0.0 hidemy.life
+0.0.0.0 applygist.com
