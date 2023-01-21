@@ -232,3 +232,5 @@
 0.0.0.0 steganos.com
 0.0.0.0 hidemy.life
 0.0.0.0 applygist.com
+0.0.0.0 thesafety.us
+0.0.0.0 privateproxy.me
