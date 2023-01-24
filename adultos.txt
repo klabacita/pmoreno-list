@@ -624,3 +624,5 @@
 0.0.0.0 toonx.net
 0.0.0.0 comics18.org
 0.0.0.0 reycomix.com
+0.0.0.0 screwbox.com
+0.0.0.0 porno333.com
