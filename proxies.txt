@@ -249,3 +249,4 @@
 0.0.0.0 vpnproxy.site
 0.0.0.0 croxy.org
 0.0.0.0 websiteproxy.net
+0.0.0.0 missionimproxyble.com
