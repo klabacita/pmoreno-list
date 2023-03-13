@@ -250,6 +250,11 @@
 0.0.0.0 croxy.org
 0.0.0.0 websiteproxy.net
 0.0.0.0 missionimproxyble.com
+0.0.0.0 netzwelt.de
+0.0.0.0 advanced.name
+0.0.0.0 hidemy.life
+0.0.0.0 infatica.io
+0.0.0.0 sslproxies.org
 0.0.0.0 rentanadviser.com
 0.0.0.0 abcproxy.com
 0.0.0.0 piaproxy.com
