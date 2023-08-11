@@ -1,2 +1,4 @@
 # pmoreno-list
-Lista de Prueba para PfBlockerNG
+Listas para PfBlockerNG
+Adultos o porn sites.
+proxies sitios de proxi publicos.
